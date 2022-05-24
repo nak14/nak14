@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickkrauts - a full-stack software engineer.
+- 👋 Hi, I’m @nickkrauts - a front-end software engineer.
 - 👀 I’m interested in building beautiful websites & applications to help onboard everyone onto a bitcoin standard. 
 - 🌱 I’m currently falling further down the rabbit hole while also developing my JavaScript & React portfolio.
 - 📫 You can reach me on: twitter @nickkrauts
